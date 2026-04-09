@@ -7,7 +7,7 @@
     "author": "CanaryDev",
     "website": "https://canarydev.es",
     "depends": ["web"],
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     "data": [],
     "assets": {
         "web.assets_backend": [
