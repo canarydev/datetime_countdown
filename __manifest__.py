@@ -1,0 +1,20 @@
+{
+    "name": "Datetime Countdown Widget",
+    "summary": "Human-friendly datetime countdown field widget",
+    "version": "16.0.1.0.0",
+    "category": "Hidden",
+    "license": "LGPL-3",
+    "author": "CanaryDev",
+    "website": "https://canarydev.es",
+    "depends": ["web"],
+    "data": [],
+    "assets": {
+        "web.assets_backend": [
+            "datetime_countdown_widget/static/src/widgets/datetime_countdown/datetime_countdown.js",
+            "datetime_countdown_widget/static/src/widgets/datetime_countdown/datetime_countdown.xml",
+            "datetime_countdown_widget/static/src/widgets/datetime_countdown/datetime_countdown.scss",
+        ],
+    },
+    "installable": True,
+    "application": False,
+}
