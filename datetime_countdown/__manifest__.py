@@ -2,7 +2,7 @@
     "name": "Datetime Countdown Widget",
     "summary": "Human-friendly datetime countdown field widget",
     "version": "16.0.1.0.0",
-    "category": "Hidden",
+    "category": "Tools",
     "license": "LGPL-3",
     "author": "CanaryDev",
     "website": "https://canarydev.es",
