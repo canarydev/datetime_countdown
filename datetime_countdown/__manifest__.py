@@ -4,7 +4,7 @@
     "version": "16.0.1.0.0",
     "category": "Tools",
     "license": "LGPL-3",
-    "author": "CanaryDev",
+    "author": "canarydev",
     "website": "https://canarydev.es",
     "depends": ["web"],
     'images': ['static/description/banner.png'],
